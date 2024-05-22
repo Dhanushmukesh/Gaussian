@@ -20,7 +20,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ```
 ## Program:
 ```
-/*
+
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: Dhanush.G
 RegisterNumber:2305002006
@@ -57,7 +57,7 @@ x[i]=x[i]-a[i][j]*x[j]
 x[i]=x[i]/a[i][i]
 for i in range(n):
 print('X%d= %0.2f'%(i,x[i]),end=' ') 
-*/
+'''
 ```
 ## Output:
 ![6666](https://github.com/Dhanushmukesh/Gaussian/assets/155508176/8ae21895-0362-4687-8fce-e9d0afbe44ce)
